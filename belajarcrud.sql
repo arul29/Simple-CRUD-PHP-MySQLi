@@ -41,8 +41,8 @@ CREATE TABLE `mahasiswa` (
 --
 
 INSERT INTO `mahasiswa` (`stb`, `nama`, `jurusan`, `jk`, `alamat`) VALUES
-('152222', 'Jakas', 'SI', 'Perempuan', 'JL.P.Kemerdekaan 7'),
-('152482', 'Andriyana', 'Teknik Informatika', 'Perempuan', 'almt');
+('152222', 'Jakas', 'SI', 'Laki-laki', 'JL.P.Kemerdekaan 7'),
+('152223', 'Andriya', 'TI', 'Perempuan', 'Sudiang');
 
 --
 -- Indexes for dumped tables
