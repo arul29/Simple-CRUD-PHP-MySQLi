@@ -1,2 +1,5 @@
 # Simple-CRUD-PHP-MySQLi
-![Untitled](https://user-images.githubusercontent.com/54633249/64063197-382a7280-cc1b-11e9-9355-231e9a7921d7.png)
+![Untitled](https://static.cdn-cdpl.com/700x350/998b78e349061b4971c0a2b0e8d6be41/php_logo-image700x350-crop-image700x350-crop-image(700x350-crop)-image(700x350-crop).png)
+
+![Untitled](https://i1.wp.com/www.elearningworld.org/wp-content/uploads/2019/04/MySQL.svg.png?fit=600%2C400&ssl=1)
+
