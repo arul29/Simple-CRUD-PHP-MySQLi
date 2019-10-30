@@ -3,3 +3,5 @@
 
 ![Untitled](https://i1.wp.com/www.elearningworld.org/wp-content/uploads/2019/04/MySQL.svg.png?fit=600%2C400&ssl=1)
 
+---
+Copyright © 2019 by Andi Mashdarul Khair
