@@ -1,8 +1,24 @@
 # Simple-CRUD-PHP-MySQLi
 
-<img width="300" src="https://static.cdn-cdpl.com/700x350/998b78e349061b4971c0a2b0e8d6be41/php_logo-image700x350-crop-image700x350-crop-image(700x350-crop)-image(700x350-crop).png">
+<!-- <img width="200" src="https://static.cdn-cdpl.com/700x350/998b78e349061b4971c0a2b0e8d6be41/php_logo-image700x350-crop-image700x350-crop-image(700x350-crop)-image(700x350-crop).png">
 &nbsp;
-<img width="300" src="https://i1.wp.com/www.elearningworld.org/wp-content/uploads/2019/04/MySQL.svg.png?fit=600%2C400&ssl=1">
+<img width="200" src="https://i1.wp.com/www.elearningworld.org/wp-content/uploads/2019/04/MySQL.svg.png?fit=600%2C400&ssl=1"> -->
+
+<p align="center">
+  <a href="https://www.php.net/">
+    <img
+      alt="PHP"
+      src="https://static.cdn-cdpl.com/700x350/998b78e349061b4971c0a2b0e8d6be41/php_logo-image700x350-crop-image700x350-crop-image(700x350-crop)-image(700x350-crop).png"
+      width="200"
+    />
+    <img
+      alt="MySQL"
+      src="https://i1.wp.com/www.elearningworld.org/wp-content/uploads/2019/04/MySQL.svg.png?fit=600%2C400&ssl=1"
+      width="200"
+    />
+    
+  </a>
+</p>
 
 <!-- ![Untitled](https://static.cdn-cdpl.com/700x350/998b78e349061b4971c0a2b0e8d6be41/php_logo-image700x350-crop-image700x350-crop-image(700x350-crop)-image(700x350-crop).png) -->
 
@@ -23,8 +39,8 @@
 
 ## Installation
 
-1. Upload/move data to your php server
-2. Open your server url, example: `http://localhost/simplecrudphp`
+- Upload/move data to your php server
+- Open your server url, example: `http://localhost/simplecrudphp`
 
 ## Stacks
 
