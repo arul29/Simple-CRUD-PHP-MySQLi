@@ -24,6 +24,15 @@
 
 <!-- ![Untitled](https://i1.wp.com/www.elearningworld.org/wp-content/uploads/2019/04/MySQL.svg.png?fit=600%2C400&ssl=1) -->
 
+## Table Of Contents
+
+- [Table Of Content](#table-of-content)
+- [Features](#features)
+- [Build Setup](#build-setup)
+- [Installation](#installation)
+- [Stacks](#stacks)
+- [Environment Recomended](#environment-recomended)
+
 ## Features
 
 1. Input Data
